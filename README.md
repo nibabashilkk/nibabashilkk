@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=你好+世界)]([https://git.io/typing-svg](https://github.com/nibabashilkk))</p>
+<p align="center"> <a href="[https://sunguoqi.com/](https://github.com/nibabashilkk)"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);你好+世界!&center=true&size=27"> </a> </p>
 
 ###
 
