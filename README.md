@@ -13,6 +13,13 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nibabashilkk&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nibabashilkk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -53,6 +60,17 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/nibabashilkk/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/31vwh762yjsvkanrbseo3jojgmke">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31vwh762yjsvkanrbseo3jojgmke&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 </div>
 
 ###
